@@ -1,0 +1,113 @@
+// app global css in SCSS form
+@font-face {
+  font-family: "FounderGrotesk-Bold";
+  src: url("../Fonts/FoundersGrotesk-Bold.ttf");
+}
+@font-face {
+  font-family: "FonderGrotesk-BoldItalic";
+  src: url("../Fonts/FoundersGrotesk-BoldItalic.ttf");
+}
+
+@font-face {
+  font-family: "FonderGrotesk-Light";
+  src: url("../Fonts/FoundersGrotesk-Light.ttf");
+}
+
+@font-face {
+  font-family: "FonderGrotesk-LightItalic";
+  src: url("../Fonts/FoundersGrotesk-LightItalic.ttf");
+}
+
+@font-face {
+  font-family: "FonderGrotesk-Medium";
+  src: url("../Fonts/FoundersGrotesk-Medium.ttf");
+}
+
+@font-face {
+  font-family: "FonderGrotesk-MediumItalic";
+  src: url("../Fonts/FoundersGrotesk-MediumItalic.ttf");
+}
+
+@font-face {
+  font-family: "FonderGrotesk-Regular";
+  src: url("../Fonts/FoundersGrotesk-Regular.ttf");
+}
+
+@font-face {
+  font-family: "FonderGrotesk-RegularItalic";
+  src: url("../Fonts/FoundersGrotesk-RegularItalic.ttf");
+}
+
+@font-face {
+  font-family: "FonderGrotesk-Semibold";
+  src: url("../Fonts/FoundersGrotesk-Semibold.ttf");
+}
+
+@font-face {
+  font-family: "FonderGrotesk-SemiboldItalic";
+  src: u url("../Fonts/FoundersGrotesk-SemiboldItalic.ttf");
+}
+
+@font-face {
+  font-family: "FonderGroteskCond-Lt";
+  src: url("../Fonts/FoundersGroteskCond-Lt.ttf");
+}
+
+@font-face {
+  font-family: "FonderGroteskXCond-Bold";
+  src: url("../Fonts/FoundersGroteskXCond-Bold.ttf");
+}
+
+.bold {
+  font-family: "FounderGrotesk-Bold";
+}
+
+.bold-italic {
+  font-family: "FonderGrotesk-BoldItalic";
+}
+
+.light {
+  font-family: "FonderGrotesk-Light";
+}
+
+.light-italic {
+  font-family: "FonderGrotesk-LightItalic";
+}
+
+.medium {
+  font-family: "FonderGrotesk-Medium";
+  font-weight: 500;
+  font-size: 32px;
+}
+
+.medium-italic {
+  font-family: "FonderGrotesk-MediumItalic";
+}
+
+.regular {
+  font-family: "FonderGrotesk-Regular";
+  font-weight: 400;
+  font-size: 14px;
+}
+
+.regular-italic {
+  font-family: "FonderGrotesk-RegularItalic";
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.semi-bold {
+  font-family: "FonderGrotesk-Semibold";
+}
+
+.semi-bold-italic {
+  font-family: "FonderGrotesk-SemiboldItalic";
+}
+
+.cond {
+  font-family: "FonderGroteskCond-Lt";
+}
+
+.cond-bold {
+  font-family: "FonderGroteskXCond-Bold";
+}
